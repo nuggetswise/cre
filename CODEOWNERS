@@ -1,0 +1,5 @@
+# GitHub CODEOWNERS file
+# This file determines who is automatically requested for review when someone opens a pull request.
+
+# Default owners for everything in the repo
+*       @nuggetswise
